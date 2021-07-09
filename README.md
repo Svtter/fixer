@@ -15,12 +15,12 @@ Just run `fixer` under the project path.
 #### example 1
 
 ```bash
-cd <the directory want to be fixed.>
+cd <the-directory-want-to-be-fixed>
 fixer
 ```
 
 #### example 2
 
 ```bash
-fixer the directory want to be fixed.>
+fixer <the-directory-want-to-be-fixed>
 ```
